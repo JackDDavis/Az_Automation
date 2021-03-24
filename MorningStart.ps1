@@ -16,7 +16,7 @@ $tenant             = #tenant GUID
 $RunAsAppId         = #RunAs ID
 $RunAsCertThumb     = #RunAs Thumbpirnt
 $rg                 = 'CAT_LitterBox' # targeted Resoure Group
-$vmExcludes         = 'NDES' # , 'cmdpmp01', 'cmps01' #  VMs Exclusions
+$vmExcludes         = 'NDES' # VMs Exclusions
 
 ########################################################################################################
 
