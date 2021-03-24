@@ -6,7 +6,7 @@ See LICENSE in the project root for license information.
 
 ########################################################################################################
 ## CAT Lab Daily Start
-# Author: Jack Davis, Program Manager CAT, MEM Engineering
+# Author: Jack Davis
 
 ########################################################################################################
 
